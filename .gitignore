@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Local CSV test files
+/empty-test.csv
+/headers-only.csv
+/test-blank-emails.csv
+/test-contacts.csv
